@@ -908,6 +908,16 @@ input, select, textarea {
 					font-size: 1.25rem;
 				}
 
+				ul.icons li .icon svg {
+					width: 1.25em;
+					height: 1.25em;
+				  display: inline-block;
+				  vertical-align: middle;
+				  position: relative;
+				  top: -0.125em;
+				  opacity: 0.8;
+				}
+
 /* Table */
 
 	.table-wrapper {
