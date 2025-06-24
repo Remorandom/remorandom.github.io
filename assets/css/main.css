@@ -909,12 +909,12 @@ input, select, textarea {
 				}
 
 				ul.icons li .icon img {
-					width: 1.25em;
-					height: 1.25em;
+					width: 1.35em;
+					height: 1.35em;
 				  display: inline-block;
 				  vertical-align: middle;
 				  position: relative;
-				  top: -0.125em;
+				  top: -0.14em;
 				  opacity: 0.8;
 				}
 
